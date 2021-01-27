@@ -1,0 +1,68 @@
+#title {
+    background-color: #9dad7f;
+    color: #fff;
+    text-align: right;
+}
+.top-container{
+  background-image: url("https://astanait.edu.kz/wp-content/uploads/2020/10/DSC01154-1-scaled-800x450.jpg");
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 100%;
+  text-align: center;
+  color: #ffd56b;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.main-container{
+  padding-top: 50px;
+  background-color: #a3ddcb;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 100%;
+}
+.bottom-container{
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  padding-right: 50px;
+  height: 40px;
+  background-color: #16c79a;
+  text-align: center;
+  color: #ffd56b;
+  font-family: fantasy;
+}
+.links-container{
+  margin-left: 50px;
+}
+.links-container2{
+  margin-left: 500px;
+}
+.text-container{
+  color: black;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: white;
+}
+.img1{
+  margin-left: 40px;
+}
+.img2{
+  margin-left: 40px;
+}
+.fab{
+  font-size: 60px;
+  margin-left: 50px;
+}
+p{
+  margin-left: 50px;
+  width: 500px
+}
+
+h2{
+  margin-left: 50px;
+}
+hr{
+
+}
