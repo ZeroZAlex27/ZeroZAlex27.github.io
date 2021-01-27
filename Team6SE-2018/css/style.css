@@ -31,6 +31,16 @@
   color: #ffd56b;
   font-family: fantasy;
 }
+.about-me{
+  background: #bbf1fa;
+  border: 2px solid #ffdf91;
+  height: auto;
+}
+hr{
+  background: white;
+  border-width: 10%;
+  width: 30%;
+}
 .links-container{
   width: 100%;
 }
