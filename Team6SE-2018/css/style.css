@@ -5,6 +5,7 @@
 }
 .top-container{
   background-image: url("https://astanait.edu.kz/wp-content/uploads/2020/10/DSC01154-1-scaled-800x450.jpg");
+  background-size: cover;
   padding-top: 50px;
   height: 400px;
   width: 100%;
