@@ -6,32 +6,6 @@
 .top-container{
   background-image: url("https://astanait.edu.kz/wp-content/uploads/2020/10/DSC01154-1-scaled-800x450.jpg");
   padding-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  height: 400px;
-  width: 100%;
-  text-align: center;
-  color: #ffd56b;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-}
-.main-container{
-  padding-top: 50px;
-  background-color: #a3ddcb;
-  margin-left: auto;
-  margin-right: auto;
-  height: 400px;
-  width: 100%;
-}
-.bottom-container{
-  #title {
-    background-color: #9dad7f;
-    color: #fff;
-    text-align: right;
-}
-.top-container{
-  background-image: url("https://astanait.edu.kz/wp-content/uploads/2020/10/DSC01154-1-scaled-800x450.jpg");
-  padding-top: 50px;
   height: 400px;
   width: 100%;
   text-align: center;
