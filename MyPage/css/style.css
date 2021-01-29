@@ -1,3 +1,6 @@
+body{
+    background-color: #6930c3;
+}
 #title {
     background-color: #111d5e;
     color: #fff;
@@ -6,26 +9,34 @@
 #Main{
   background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/937dc959-8701-4bf0-9524-2148d092d618/db8c1yz-9f53fd0e-0c34-4e1d-b6ba-9be823f68cf3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTM3ZGM5NTktODcwMS00YmYwLTk1MjQtMjE0OGQwOTJkNjE4XC9kYjhjMXl6LTlmNTNmZDBlLTBjMzQtNGUxZC1iNmJhLTliZTgyM2Y2OGNmMy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.KZMwluqqdPtEp-lvWuz4nUa9Gpg5NEPbMUcOL6IiLUs);
   background-size: cover;
-  padding-top: 200px;
+  padding-top: 100px;
   padding-left: 50px;
   padding-right: 50px;
   width: 100%;
   min-height: 100vh;
+  max-height: 200vh;
   text-align: center;
   margin: auto;
   color: white;
 }
 #footer{
-  width: 100%;
-  left: 0;
-  bottom: 0;
-  height: 40px;
-  background-color: #6930c3;
+  padding-top: 10px;
   text-align: center;
-  font-family: fantasy;
+  width: 100%;
+  height: 50px;
+  background-color: #6930c3;
+  margin-left: auto;
+  margin-right: auto;
+}
+.CppCode{
+  text-align: left;
+}
+.carousel-item{
+  width: 100%;
+  height: 80vh;
 }
 .carousel-indicators {
-  margin-bottom: -300px;
+  margin-bottom: -30px;
 }
 .carousel-control-prev{
   margin-left: -50px;
